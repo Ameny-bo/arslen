@@ -4,10 +4,9 @@
 }
 
 /* hero background image */
-.bgimage {
-    height:100vh;
-    background: url('images/heroImage.jpeg');
-    background-size:cover;
+.bgimage { 
+    width: 100px; 
+    height: 100px;
     position:relative;
 }
 /* text css above hero image*/
@@ -36,7 +35,8 @@
 }
 /* about section image css */
 .imageAboutPage {
-    width: 100%;
+    width: 100px;
+    height:50px
 }
 
 /* services section css */
@@ -74,4 +74,43 @@
 #footer {
     background-color: #808080;
     text-align: center;
+} 
+.ars{
+   
+} 
+.nav{
+    color: brown; 
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+
+
+} 
+.po{
+    color: rgb(207, 165, 110); 
+    text-decoration: underline; 
+    text-decoration-color: #808080;
+} 
+.id{
+    width: 1px;
+    height:1px
+} 
+.pic1{
+width: 500px; 
+height: 500px;
+
+}  
+.body{
+    margin: 20px;
+    margin: 20px;
+} 
+.text-center{
+    text-decoration: underline;
+    color: rgb(214, 153, 39); 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+.get{
+    width: 100px;
+    height:100px
+}
+.you{
+ background-color: rgb(156, 221, 199);
 }
